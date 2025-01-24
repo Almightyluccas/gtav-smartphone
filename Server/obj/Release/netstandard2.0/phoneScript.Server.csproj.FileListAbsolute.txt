@@ -1,0 +1,10 @@
+C:\Programming\Projects\fivem\phoneScript\Server\bin\Release\netstandard2.0\phoneScript.Server.deps.json
+C:\Programming\Projects\fivem\phoneScript\Server\bin\Release\netstandard2.0\phoneScript.Server.net.dll
+C:\Programming\Projects\fivem\phoneScript\Server\bin\Release\netstandard2.0\phoneScript.Server.net.pdb
+C:\Programming\Projects\fivem\phoneScript\Server\obj\Release\netstandard2.0\phoneScript.Server.csproj.AssemblyReference.cache
+C:\Programming\Projects\fivem\phoneScript\Server\obj\Release\netstandard2.0\phoneScript.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Projects\fivem\phoneScript\Server\obj\Release\netstandard2.0\phoneScript.Server.AssemblyInfoInputs.cache
+C:\Programming\Projects\fivem\phoneScript\Server\obj\Release\netstandard2.0\phoneScript.Server.AssemblyInfo.cs
+C:\Programming\Projects\fivem\phoneScript\Server\obj\Release\netstandard2.0\phoneScript.Server.csproj.CoreCompileInputs.cache
+C:\Programming\Projects\fivem\phoneScript\Server\obj\Release\netstandard2.0\phoneScript.Server.net.dll
+C:\Programming\Projects\fivem\phoneScript\Server\obj\Release\netstandard2.0\phoneScript.Server.net.pdb

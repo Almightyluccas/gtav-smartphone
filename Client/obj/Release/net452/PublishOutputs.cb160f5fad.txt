@@ -1,0 +1,2 @@
+C:\Programming\Projects\fivem\phoneScript\Client\bin\Release\net452\publish\phoneScript.Client.net.dll
+C:\Programming\Projects\fivem\phoneScript\Client\bin\Release\net452\publish\CitizenFX.Core.Client.dll

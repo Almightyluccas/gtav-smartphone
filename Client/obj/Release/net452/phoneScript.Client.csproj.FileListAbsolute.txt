@@ -1,0 +1,9 @@
+C:\Programming\Projects\fivem\phoneScript\Client\obj\Release\net452\phoneScript.Client.csproj.AssemblyReference.cache
+C:\Programming\Projects\fivem\phoneScript\Client\obj\Release\net452\phoneScript.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Projects\fivem\phoneScript\Client\obj\Release\net452\phoneScript.Client.AssemblyInfoInputs.cache
+C:\Programming\Projects\fivem\phoneScript\Client\obj\Release\net452\phoneScript.Client.AssemblyInfo.cs
+C:\Programming\Projects\fivem\phoneScript\Client\obj\Release\net452\phoneScript.Client.csproj.CoreCompileInputs.cache
+C:\Programming\Projects\fivem\phoneScript\Client\bin\Release\net452\phoneScript.Client.net.dll
+C:\Programming\Projects\fivem\phoneScript\Client\bin\Release\net452\CitizenFX.Core.Client.dll
+C:\Programming\Projects\fivem\phoneScript\Client\obj\Release\net452\phoneScr.F232043A.Up2Date
+C:\Programming\Projects\fivem\phoneScript\Client\obj\Release\net452\phoneScript.Client.net.dll
