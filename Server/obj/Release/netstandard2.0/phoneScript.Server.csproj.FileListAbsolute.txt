@@ -8,3 +8,4 @@ C:\Programming\Projects\fivem\phoneScript\Server\obj\Release\netstandard2.0\phon
 C:\Programming\Projects\fivem\phoneScript\Server\obj\Release\netstandard2.0\phoneScript.Server.csproj.CoreCompileInputs.cache
 C:\Programming\Projects\fivem\phoneScript\Server\obj\Release\netstandard2.0\phoneScript.Server.net.dll
 C:\Programming\Projects\fivem\phoneScript\Server\obj\Release\netstandard2.0\phoneScript.Server.net.pdb
+C:\Programming\Projects\fivem\phoneScript\Server\obj\Release\netstandard2.0\phoneScript.Server.sourcelink.json

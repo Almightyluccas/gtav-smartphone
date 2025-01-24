@@ -7,3 +7,4 @@ C:\Programming\Projects\fivem\phoneScript\Client\bin\Release\net452\phoneScript.
 C:\Programming\Projects\fivem\phoneScript\Client\bin\Release\net452\CitizenFX.Core.Client.dll
 C:\Programming\Projects\fivem\phoneScript\Client\obj\Release\net452\phoneScr.F232043A.Up2Date
 C:\Programming\Projects\fivem\phoneScript\Client\obj\Release\net452\phoneScript.Client.net.dll
+C:\Programming\Projects\fivem\phoneScript\Client\obj\Release\net452\phoneScript.Client.sourcelink.json
