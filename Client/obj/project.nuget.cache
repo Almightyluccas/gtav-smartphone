@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "dAgvNBXJy0I=",
+  "dgSpecHash": "dZdgDqbFdBk=",
   "success": true,
-  "projectFilePath": "C:\\Programming\\Projects\\fivem\\phoneScript\\Client\\phoneScript.Client.csproj",
+  "projectFilePath": "C:\\Users\\almirr\\dev\\gtav-smartphone\\Client\\phoneScript.Client.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Luccas Amorim\\.nuget\\packages\\citizenfx.core.client\\1.0.10230\\citizenfx.core.client.1.0.10230.nupkg.sha512",
-    "C:\\Users\\Luccas Amorim\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
-    "C:\\Users\\Luccas Amorim\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net452\\1.0.3\\microsoft.netframework.referenceassemblies.net452.1.0.3.nupkg.sha512",
-    "C:\\Users\\Luccas Amorim\\.nuget\\packages\\citizenfx.framework.client\\0.2.3\\citizenfx.framework.client.0.2.3.nupkg.sha512"
+    "C:\\Users\\almirr\\.nuget\\packages\\citizenfx.core.client\\1.0.10230\\citizenfx.core.client.1.0.10230.nupkg.sha512",
+    "C:\\Users\\almirr\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\almirr\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net452\\1.0.3\\microsoft.netframework.referenceassemblies.net452.1.0.3.nupkg.sha512",
+    "C:\\Users\\almirr\\.nuget\\packages\\citizenfx.framework.client\\0.2.3\\citizenfx.framework.client.0.2.3.nupkg.sha512"
   ],
   "logs": []
 }

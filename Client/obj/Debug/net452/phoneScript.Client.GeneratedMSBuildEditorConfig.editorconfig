@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = phoneScript.Client
-build_property.ProjectDir = C:\Programming\Projects\fivem\phoneScript\Client\
+build_property.ProjectDir = C:\Users\almirr\dev\gtav-smartphone\Client\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

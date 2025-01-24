@@ -384,19 +384,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Luccas Amorim\\.nuget\\packages\\": {}
+    "C:\\Users\\almirr\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Programming\\Projects\\fivem\\phoneScript\\Client\\phoneScript.Client.csproj",
+      "projectUniqueName": "C:\\Users\\almirr\\dev\\gtav-smartphone\\Client\\phoneScript.Client.csproj",
       "projectName": "phoneScript.Client",
-      "projectPath": "C:\\Programming\\Projects\\fivem\\phoneScript\\Client\\phoneScript.Client.csproj",
-      "packagesPath": "C:\\Users\\Luccas Amorim\\.nuget\\packages\\",
-      "outputPath": "C:\\Programming\\Projects\\fivem\\phoneScript\\Client\\obj\\",
+      "projectPath": "C:\\Users\\almirr\\dev\\gtav-smartphone\\Client\\phoneScript.Client.csproj",
+      "packagesPath": "C:\\Users\\almirr\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\almirr\\dev\\gtav-smartphone\\Client\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Luccas Amorim\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\almirr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
       ],
       "originalTargetFrameworks": [
         "net452"

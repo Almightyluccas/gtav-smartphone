@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "2PG3+eJ/LYI=",
+  "dgSpecHash": "Xx8FVt6hDgY=",
   "success": true,
-  "projectFilePath": "C:\\Programming\\Projects\\fivem\\phoneScript\\Server\\phoneScript.Server.csproj",
+  "projectFilePath": "C:\\Users\\almirr\\dev\\gtav-smartphone\\Server\\phoneScript.Server.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Luccas Amorim\\.nuget\\packages\\citizenfx.core.server\\1.0.10230\\citizenfx.core.server.1.0.10230.nupkg.sha512",
-    "C:\\Users\\Luccas Amorim\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Luccas Amorim\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\almirr\\.nuget\\packages\\citizenfx.core.server\\1.0.10230\\citizenfx.core.server.1.0.10230.nupkg.sha512",
+    "C:\\Users\\almirr\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\almirr\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

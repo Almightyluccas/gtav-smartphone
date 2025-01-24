@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("phoneScript.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d0e613eeffb9340ac0486efeeb6ac5872524836")]
 [assembly: System.Reflection.AssemblyProductAttribute("phoneScript.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("phoneScript.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
